@@ -38,7 +38,6 @@ Append XSS statements at the end; here, I will make the following selection.
 Continuously send.
 You can see that the upload was successful.
 
-![10](https://github.com/woshinibaba222/DoraCMS-/assets/55568679/bc2e6132-93fd-4881-bbc6-fa841e42fec2)
 ![10](https://github.com/woshinibaba222/DoraCMS-/assets/55568679/4f6890b3-6da9-4090-a7e5-ecefed661688)
 
 Click on the update button as shown in the picture.
